@@ -58,7 +58,7 @@
 
 >  企业后台系统可视化大数据监控管理PC界面科技感平台PSD设计模板
 
-![image-20211128174204890](img/1.png)
+![image](https://user-images.githubusercontent.com/73021377/143800354-930d85bb-5aeb-4b41-ab13-1ab128760bdd.png)
 
 > 2RMB：https://item.taobao.com/item.htm?id=653924652134
 
@@ -212,7 +212,7 @@
 - 按需求进行作品的完成
 - 相关的创新点
 
-![image-20211128194639162](img/saiti.jpg)
+![image-20211128194639162](https://github.com/Team-WithoutName/.github/tree/master/image/saiti.jpg)
 
 
 
@@ -220,13 +220,13 @@
 
 
 
-![image-2021112819450452](img/chusai.png)
+![image-2021112819450452](https://github.com/Team-WithoutName/.github/tree/master/image/chusai.png)
 
 
 
-![image-2021112819482011](img/juesai.png)
+![image-2021112819482011](https://github.com/Team-WithoutName/.github/tree/master/image/juesai.png)
 
-![image-20211128195022789](img/time.png)
+![image-20211128195022789](https://github.com/Team-WithoutName/.github/tree/master/image/time.png)
 
 
 
