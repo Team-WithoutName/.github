@@ -1,4 +1,4 @@
-# **智能信号灯-交通流疏导控制系统**
+# 智能信号灯-交通流疏导控制系统
 
 ## 赛题要求
 
@@ -58,7 +58,7 @@
 
 >  企业后台系统可视化大数据监控管理PC界面科技感平台PSD设计模板
 
-![image-20211128174204890](https://gitee.com/Black_Friday/blog/raw/master/image/202111281742181.png)
+![image-20211128174204890](img/1.png)
 
 > 2RMB：https://item.taobao.com/item.htm?id=653924652134
 
@@ -220,11 +220,13 @@
 
 
 
-![image-20211128194504523](https://gitee.com/Black_Friday/blog/raw/master/image/202111281945645.png)
+![image-2021112819450452](img/chusai.png)
 
-![image-20211128194820119](https://gitee.com/Black_Friday/blog/raw/master/image/202111281948184.png)
 
-![image-20211128195022789](https://gitee.com/Black_Friday/blog/raw/master/image/202111281950915.png)
+
+![image-2021112819482011](img/juesai.png)
+
+![image-20211128195022789](img/time.png)
 
 
 
@@ -253,5 +255,4 @@
   一周一次腾讯会议，每个人介绍一下一周内的学习情况。
 
   也可以关注一下相关的比赛，进行报名。
-
 
